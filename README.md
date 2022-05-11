@@ -13,11 +13,11 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwel-chege&theme=radical" alt="my streak" /></p>
-<!--  
+ 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samwel-chege&show_icons=true&theme=radical&count_private=true" />
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwel-chege&theme=radical&count_private=true"> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwel-chege&theme=radical&count_private=true">
   
   
 ### Badges
