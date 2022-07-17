@@ -9,8 +9,21 @@
 
 <br>
 <br>
+<br><br> 🧑‍💼 **DEVELOPMENT STACK**<br>
 
-
+     i. Web Development:
+             - HTML CSS, JavaScript, JQuery, React, TailwindCSS & Bootstrap
+               
+     ii. Backend Development: 
+             - Django, NodeJs.
+    
+     iii. Databases: 
+            - MySQL, Postgres.
+             
+      iv. UX/UI Design: 
+            - Adobe XD, Figma.
+         
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwel-chege&theme=radical" alt="my streak" /></p>
  
