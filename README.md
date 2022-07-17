@@ -10,7 +10,7 @@
 <br><br> 🧑‍💼 DEVELOPMENT STACK<br>
 
      i. Web Development:
-             - HTML CSS, JavaScript, JQuery, React, TailwindCSS & Bootstrap
+             - HTML CSS, JavaScript, Python, JQuery, React, TailwindCSS & Bootstrap
                
      ii. Backend Development: 
              - Django, NodeJs.
