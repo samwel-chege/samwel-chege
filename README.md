@@ -10,13 +10,13 @@
 <br><br> 🧑‍💼 DEVELOPMENT STACK<br>
 
      i. Web Development:
-             - HTML CSS, JavaScript, Python, JQuery, React, TailwindCSS & Bootstrap
+             - HTML CSS, JavaScript, Python, JQuery, React, Vue, TailwindCSS & Bootstrap
                
      ii. Backend Development: 
-             - Django, NodeJs.
+             - Django, NodeJs and Laravel.
     
-     iii. Databases: 
-            - MySQL, Postgres.
+     iii. Mobile: 
+            - Flutter.
              
       iv. UX/UI Design: 
             - Adobe XD, Figma.
