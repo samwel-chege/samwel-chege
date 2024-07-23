@@ -1,6 +1,6 @@
 ### Hi there I'm Chege. 👋
 
-- 🔭 I'm a full stack developer.
+- 🔭 I'm a software developer.
 - 👯 I’m looking to collaborate on solving problems, creating content and speaking opportunities aroung emerging tech.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samwel-chege-b069b618b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxl5h%2BFSySoGbi2rrTLdjeQ%3D%3D)
 - ⚡ Fun fact: I love sports, adrenaline rush and doing things that make me happy.
@@ -10,17 +10,14 @@
 <br><br> 🧑‍💼 DEVELOPMENT STACK<br>
 
      i. Web Development:
-             - HTML CSS, JavaScript, Python, JQuery, React, Vue, TailwindCSS & Bootstrap
+             - HTML CSS, JavaScript, Python, JQuery, React, Next.Js, TailwindCSS & Bootstrap
                
      ii. Backend Development: 
              - Django, NodeJs and Laravel.
     
      iii. Mobile: 
-            - Flutter.
+            - React Native
              
-      iv. UX/UI Design: 
-            - Adobe XD, Figma.
-         
  
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwel-chege&theme=radical" alt="my streak" /></p> -->
