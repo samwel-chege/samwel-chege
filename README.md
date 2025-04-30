@@ -20,7 +20,7 @@
              
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samwel-chege&theme=radical" alt="my streak" /></p> 
+<-- <p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=samwel-chege&theme=radical" alt="my streak" /></p> -->
  
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samwel-chege&show_icons=true&theme=radical&count_private=true" />
 
