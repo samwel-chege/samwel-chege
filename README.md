@@ -5,8 +5,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samwel-chege-b069b618b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxl5h%2BFSySoGbi2rrTLdjeQ%3D%3D)
 - ⚡ Fun fact: I love sports.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span align="right" right=""> <img src="https://komarev.com/ghpvc/?username=samwel-chege&label=Profile%20views&color=0e75b6&style=flat" alt="number of profile visits" /> </span> 
-
 <br><br> 🧑‍💼 DEVELOPMENT STACK<br>
 
      i. Web Development:
@@ -19,8 +17,6 @@
             - React Native
              
  
-
-<-- <p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=samwel-chege&theme=radical" alt="my streak" /></p> -->
  
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samwel-chege&show_icons=true&theme=radical&count_private=true" />
 
